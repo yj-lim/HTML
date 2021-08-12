@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  <h1>My first attempt using HTML</h1>
+    <p>This is my first paragraph using HTML and I am having fun learning this new language. I have learnt how to create headings, paragraphs, lists, insert atttributes, align texts, as well as change font types and colours.</p>
+  <h2>Other things that I have learnt recently</h2>
+  <ul>
+    <li>Python</li>
+    <li>GitHub</li>
+    <li>Canva</li>
+  </ul>
+  <p>Visit my <a href="https://github.com/yj-lim">GitHub</a> profile here.</p>
+  </body>
+<style>
+  h1,h2{
+    color:#008B8B;
+  }
+  h1,h2{
+    font-family: Arial;
+  }
+  ul{
+    color:black;
+  }
+  a{
+    color: blue;
+  }
+  a{
+    font-style: italic;
+  }
+  p{
+    text-align: justify;
+  }
+  body{
+    background-color:#FFEBCD;
+  }
+</html>
